@@ -33,7 +33,7 @@ export const demoData = [
         "title": "Shane Black",
         "content": "Los Angeles",
         "photoUrl": null,
-        "color": "#7F00FF"
+        "color": "#FFD700"
     },
     {
         "type": "user",

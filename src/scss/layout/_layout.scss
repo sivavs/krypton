@@ -1,4 +1,4 @@
-/*! _layout.scss | Krypton | CSS Ninja */
+/*! _layout.scss | Rava Coin | CSS Ninja */
 
 /* ==========================================================================
 Layout styles
@@ -28,7 +28,7 @@ body {
 ========================================================================== */
 
 .dark-wrapper {
-    background: url(../img/bg/gradient-left-darker.png) repeat-y top left, url(../img/bg/gradient-right-darker.png) repeat-y top right, #1c004c;
+    background: black;
 }
 
 .hero, .section {
@@ -102,8 +102,8 @@ body {
             min-height: 4rem;
 
             img {
-                max-height: 36px !important;
-                height: 36px;
+                max-height: 85px !important;
+                height: 85px;
             }
 
             //brand text
@@ -197,7 +197,7 @@ body {
 
             //Dark modifier
             &.is-dark {
-                background: #2d0275 !important;
+                background: #000000 !important;
 
                 a {
                     color: $white;

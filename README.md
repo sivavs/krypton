@@ -1,12 +1,12 @@
-# 👋 Krypton
-> Krypton is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
+# 👋 Rava Coin
+> Rava Coin is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
 
-![Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
+![Screenshot](https://media.cssninja.io/products/Rava Coin/product.png "Rava Coin")
 
 ## ✌️ preview
 
-Check out the live demo by clicking [here](https://cssninjastudio.github.io/krypton/). 
-Krypton is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
+Check out the live demo by clicking [here](https://cssninjastudio.github.io/Rava Coin/). 
+Rava Coin is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 
@@ -41,7 +41,7 @@ If you've found an issue or a bug, you can report it in the issues section of th
 
 ## 🎉 More
 
-You liked Krypton? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
+You liked Rava Coin? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
 
 Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
 

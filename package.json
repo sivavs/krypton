@@ -1,7 +1,7 @@
 {
-  "name": "krypton",
+  "name": "Rava Coin",
   "version": "4.0.0",
-  "description": "Krypton - Bulma + Alpine JS ICO/Crypto Starter",
+  "description": "Rava Coin - Bulma + Alpine JS ICO/Crypto Starter",
   "main": "gulpfile.js",
   "dependencies": {
     "@ryangjchandler/spruce": "^2.4.0",
@@ -14,7 +14,7 @@
     "js-datepicker": "^5.16.0",
     "notyf": "^3.9.0",
     "plyr": "^3.5.6",
-    "postcss": "^8.1.6",
+    "postcss": "^8.3.5",
     "simplebar": "^5.2.1"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "@babel/register": "^7.12.1",
     "autoprefixer": "^10.0.1",
     "babelify": "^10.0.0",
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.26.14",
     "browserify": "^17.0.0",
     "del": "^6.0.0",
     "gulp": "^4.0.2",

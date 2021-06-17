@@ -60,7 +60,7 @@
 			</g>
 			<g>
 				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="199.3599" y1="282.1751" x2="265.7383" y2="282.1751">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.4889" style="stop-color:#7D00FF"/>
 					<stop  offset="0.665" style="stop-color:#7600FF"/>
 					<stop  offset="0.7905" style="stop-color:#6B00FF"/>
@@ -91,7 +91,7 @@
 				</linearGradient>
 				<polygon class="st6" points="229.4,264 232.3,255.8 257.9,240.9 259.7,281.5 				"/>
 				<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="264.5424" y1="283.204" x2="326.4671" y2="283.204">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.2224" style="stop-color:#7A00FF"/>
 					<stop  offset="0.5003" style="stop-color:#6A00FF"/>
 					<stop  offset="0.8064" style="stop-color:#5100FF"/>
@@ -146,7 +146,7 @@
 			</g>
 			<g>
 				<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="166.1733" y1="236.9482" x2="232.5517" y2="236.9482">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.4889" style="stop-color:#7D00FF"/>
 					<stop  offset="0.665" style="stop-color:#7600FF"/>
 					<stop  offset="0.7905" style="stop-color:#6B00FF"/>
@@ -177,7 +177,7 @@
 				</linearGradient>
 				<polygon class="st16" points="196.2,218.8 199.2,210.5 224.7,195.7 226.5,236.3 				"/>
 				<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="231.3559" y1="237.9771" x2="293.2805" y2="237.9771">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.2224" style="stop-color:#7A00FF"/>
 					<stop  offset="0.5003" style="stop-color:#6A00FF"/>
 					<stop  offset="0.8064" style="stop-color:#5100FF"/>
@@ -232,7 +232,7 @@
 			</g>
 			<g>
 				<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="138.0522" y1="187.6371" x2="204.4306" y2="187.6371">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.4889" style="stop-color:#7D00FF"/>
 					<stop  offset="0.665" style="stop-color:#7600FF"/>
 					<stop  offset="0.7905" style="stop-color:#6B00FF"/>
@@ -263,7 +263,7 @@
 				</linearGradient>
 				<polygon class="st25" points="168.1,169.5 171,161.2 196.5,146.4 198.4,187 				"/>
 				<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="203.2347" y1="188.666" x2="265.1594" y2="188.666">
-					<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+					<stop  offset="1.916698e-007" style="stop-color:#FFD700"/>
 					<stop  offset="0.2224" style="stop-color:#7A00FF"/>
 					<stop  offset="0.5003" style="stop-color:#6A00FF"/>
 					<stop  offset="0.8064" style="stop-color:#5100FF"/>
