@@ -3,6 +3,9 @@
   "version": "4.0.0",
   "description": "Rava Coin - Bulma + Alpine JS ICO/Crypto Starter",
   "main": "gulpfile.js",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "@ryangjchandler/spruce": "^2.4.0",
     "alpinejs": "^2.8.0",
